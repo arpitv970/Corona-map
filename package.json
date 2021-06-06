@@ -1,0 +1,22 @@
+{
+  "name": "covid19",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arpitv970/Corona-map.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arpitv970/Corona-map/issues"
+  },
+  "homepage": "https://github.com/arpitv970/Corona-map#readme",
+  "dependencies": {
+    "node.js": "0.0.1-security"
+  }
+}
